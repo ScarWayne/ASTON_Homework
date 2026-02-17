@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Homework_1 {
+public class Homework2 {
     /*
     1) Создайте метод printThreeWords(), 
     который при вызове должен отпечатать в столбец три слова: 

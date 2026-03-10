@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="0.804" tests="12" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="D:\GitHub\ASTON_Homework\Homework7\automation-tests\target\test-classes;D:\GitHub\ASTON_Homework\Homework7\automation-tests\target\classes;C:\Users\Дымок\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\Дымок\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Дымок\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Дымок\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.30.7-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Windows\TEMP\surefire5633469507802076679\surefirebooter-20260310232602029_3.jar C:\Windows\TEMP\surefire5633469507802076679 2026-03-10T23-25-59_136-jvmRun1 surefire-20260310232602029_1tmp surefire_0-20260310232602029_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\GitHub\ASTON_Homework\Homework7\automation-tests\target\test-classes;D:\GitHub\ASTON_Homework\Homework7\automation-tests\target\classes;C:\Users\Дымок\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\Дымок\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Дымок\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Дымок\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Дымок"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-01-20"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.30.7-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\GitHub\ASTON_Homework\Homework7\automation-tests"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Windows\TEMP\surefire5633469507802076679\surefirebooter-20260310232602029_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.30+7"/>
+    <property name="user.name" value="Scar"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-11.0.30+7"/>
+    <property name="localRepository" value="C:\Users\Дымок\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Windows\Temp\"/>
+    <property name="java.version" value="11.0.30"/>
+    <property name="user.dir" value="D:\GitHub\ASTON_Homework\Homework7\automation-tests"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.30.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Eclipse Adoptium\jdk-11.0.30.7-hotspot\bin;C:\Python314\Scripts\;C:\Python314\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\Go\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.13\bin;C:\bin\task_windows_amd64;C:\Users\Дымок\AppData\Local\Python\bin;C:\Users\Дымок\AppData\Roaming\npm;C:\Users\Дымок\AppData\Local\Programs\Ollama;D:\tesseract;C:\Users\Дымок\AppData\Local\GitHubDesktop\bin;c:\Users\Дымок\.vscode\extensions\vscjava.vscode-java-debug-0.58.5\bundled\scripts\noConfigScripts;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="11.0.30+7"/>
+    <property name="java.specification.maintenance.version" value="3"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="checkCalculationFactorial" classname="com.example.CalculationFactorialAppTest" time="0.011">
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="checkCalculationFactorialZero" classname="com.example.CalculationFactorialAppTest" time="0.0"/>
+  <testcase name="checkNegativeFactorial" classname="com.example.CalculationFactorialAppTest" time="0.0"/>
+  <testcase name="checkAreaTriangle" classname="com.example.CheckAreaTriangleTest" time="0.001"/>
+  <testcase name="impossibleComparsionAreaTriangle" classname="com.example.CheckAreaTriangleTest" time="0.001"/>
+  <testcase name="checkFalseComparsionNumbers" classname="com.example.CheckComparsionNumbersTest" time="0.001"/>
+  <testcase name="checkThrowComparsionNumbers" classname="com.example.CheckComparsionNumbersTest" time="0.001"/>
+  <testcase name="checkTrueComparsionNumbers" classname="com.example.CheckComparsionNumbersTest" time="0.001"/>
+  <testcase name="checkAmountNumbers" classname="com.example.CheckResultsActionsWithNumbersTest" time="0.0"/>
+  <testcase name="checkDifferenceNumbers" classname="com.example.CheckResultsActionsWithNumbersTest" time="0.0"/>
+  <testcase name="checkDivisionNumbers" classname="com.example.CheckResultsActionsWithNumbersTest" time="0.001"/>
+  <testcase name="checkMultiplicationNumbers" classname="com.example.CheckResultsActionsWithNumbersTest" time="0.0"/>
+</testsuite>

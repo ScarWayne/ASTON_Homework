@@ -1,0 +1,6 @@
+com\example\NumberFactorialApp.class
+com\example\ActionsWithNumbersApp.class
+com\example\AreaTriangleApp.class
+com\example\Clases\NegativeNumberException.class
+com\example\Clases\SameNumbersException.class
+com\example\ComparisonNumberApp.class

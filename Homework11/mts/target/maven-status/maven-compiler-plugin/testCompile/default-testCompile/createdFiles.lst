@@ -1,0 +1,5 @@
+com\example\BaseTest.class
+com\example\pages\PaymentWindow.class
+com\example\pages\HomePage.class
+com\example\tests\PaymentWindowTests.class
+com\example\tests\WebHomePageTests.class

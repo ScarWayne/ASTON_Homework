@@ -1,0 +1,3 @@
+*.java
+/target
+src/main/resources/chrome/
